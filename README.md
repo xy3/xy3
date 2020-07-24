@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**xy3/xy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+  I work at HubSpot :)
+</samp>
+<samp>
+  idk go checkout my
+</samp>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[spotify](https://open.spotify.com/user/darkplay6?si=ALYplnW4Rtq5ZwOvZRuDCw)
+<samp>
+  or something
+</samp>
