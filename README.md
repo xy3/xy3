@@ -1,7 +1,7 @@
 ### Hello 👋
 
 <samp>
-  I work at HubSpot :)
+  I work(ed) at HubSpot
 </samp>
 <samp>
   idk go checkout my
