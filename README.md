@@ -1,7 +1,7 @@
 ### Hello 👋
 
 <samp>
-  I work(ed) at HubSpot
+  4th Year Computer Applications Student @ DCU
 </samp>
 <samp>
   idk go checkout my
