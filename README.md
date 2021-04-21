@@ -1,7 +1,8 @@
 ### Hello 👋
 
 <samp>
-  4th Year Computer Applications Student @ DCU
+  Treasure hunt:
+     NDYgNzIgNjEgNzEgMjAgNmUgNjEgMjAgNzIgN2EgNmUgNzYgNzkgMjAgNjcgNjIgMjAgNmUgNDAgNmIgNjYgNjQgMmUgNjMgNmEgMjAgNmEgNzYgNjcgNzUgMjAgNjcgNzUgNzIgMjAgN2EgNzIgNjYgNjYgNmUgNzQgNzIgM2EgMjAgNDcgNzIgN2EgNjMgNjIgMjAgMzYgMzYgMmUgMjAgNTYgNjEgNzAgNzkgNjggNzEgNzIgMjAgNmUgMjAgNmYgNjUgNzYgNzIgNzMgMjAgNjYgNjggN2EgN2EgNmUgNjUgNmMgMjAgNjIgNzMgMjAgNmEgNzUgNjIgMjAgNmMgNjIgNjggMjAgNmUgNjUgNzIgMmUgMGEgNGMgNjIgNjggMjAgNzcgNjggNjYgNjcgMjAgNmEgNjIgNjEgMjAgMzUgMzAgMjAgNzIgNjggNjUgNjIgMjAgNzYgNjEgMjAgNmYgNzYgNjcgNzAgNjIgNzYgNjEgMmU=
 </samp>
 
-I spend most my time wasting it
+Most my time is spent wasting it
