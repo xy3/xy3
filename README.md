@@ -13,6 +13,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=purple&style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=green&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)
+
 ![Zenhub](https://img.shields.io/badge/Zenhub-black?logo=Zenhub&style=for-the-badge&logoColor=6515DD)
 ![ClubHouse](https://img.shields.io/badge/Clubhouse-black?logo=clubhouse&style=for-the-badge&logoColor=6515DD)
 
@@ -23,7 +24,8 @@
 ![V](https://img.shields.io/badge/V-black.svg?logo=v&logoColor=blue&style=for-the-badge) 
 ![Python](https://img.shields.io/badge/Python-black.svg?logo=python&style=for-the-badge&logoColor=yellow) 
 ![Solidity](https://img.shields.io/badge/Solidity-black.svg?logo=Solidity&style=for-the-badge&logoColor=magenta) 
-![PHP](https://img.shields.io/badge/Php-black.svg?logo=php&style=for-the-badge&logoColor=light-purple) 
+![PHP](https://img.shields.io/badge/Php-black.svg?logo=php&style=for-the-badge&logoColor=light-purple)
+
 ![Java](https://img.shields.io/badge/Java-black.svg?logo=java&style=for-the-badge&logoColor=red) 
 ![C++](https://img.shields.io/badge/C++-black.svg?logo=cplusplus&style=for-the-badge&logoColor=red) 
 
@@ -33,6 +35,7 @@
 ![Web3JS](https://img.shields.io/badge/web3.js%20-black.svg?&style=for-the-badge&logo=web3.js&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-black.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 ![Tailwind](https://img.shields.io/badge/tailwind_css%20-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron&logoColor=white)
 
@@ -44,12 +47,12 @@
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=DC382D)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=003B57)
+
 ![CouchDB](https://img.shields.io/badge/CouchDB-black?style=for-the-badge&logo=apachecouchdb&logoColor=E42528)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 
-
-## ![user-add](https://user-images.githubusercontent.com/32339757/156603792-9835e340-c44f-4521-88b4-6cdbdd2beb21.svg) Find me on
+## ![user-add](https://user-images.githubusercontent.com/32339757/156605564-fecfdaaf-cd0d-4111-822f-d00c34543eb4.svg) Find me on
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/xy3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/xy3)
