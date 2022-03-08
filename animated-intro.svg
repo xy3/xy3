@@ -5,7 +5,7 @@
     width='900px' height='150px'>
 
     <path id='path0'>
-        <animate id='d0' attributeName='d' begin='0s;d4.end' dur='3000ms'
+        <animate id='d0' attributeName='d' begin='0s;d4.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
     <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
@@ -17,7 +17,7 @@
     </text>
 
     <path id='path1'>
-        <animate id='d1' attributeName='d' begin='d0.end' dur='3000ms'
+        <animate id='d1' attributeName='d' begin='d0.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
     <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
@@ -29,7 +29,7 @@
     </text>
 
     <path id='path2'>
-        <animate id='d2' attributeName='d' begin='d1.end' dur='3000ms'
+        <animate id='d2' attributeName='d' begin='d1.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
     <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
@@ -41,7 +41,7 @@
     </text>
 
     <path id='path3'>
-        <animate id='d3' attributeName='d' begin='d2.end' dur='3000ms'
+        <animate id='d3' attributeName='d' begin='d2.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1350 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
     <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
@@ -53,7 +53,7 @@
     </text>
 
     <path id='path4'>
-        <animate id='d4' attributeName='d' begin='d3.end' dur='3000ms'
+        <animate id='d4' attributeName='d' begin='d3.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
     <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
