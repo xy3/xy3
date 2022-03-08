@@ -1,14 +1,14 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 800 200'
+    viewBox='0 0 1050 200'
     width='900px' height='150px'>
 
     <path id='path0'>
         <animate id='d0' attributeName='d' begin='0s;d4.end' dur='3000ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='37'
+    <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
@@ -20,7 +20,7 @@
         <animate id='d1' attributeName='d' begin='d0.end' dur='3000ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='37'
+    <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
@@ -32,7 +32,7 @@
         <animate id='d2' attributeName='d' begin='d1.end' dur='3000ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='37'
+    <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
@@ -44,7 +44,7 @@
         <animate id='d3' attributeName='d' begin='d2.end' dur='3000ms'
             values='m0,100 h0 ; m0,100 h1350 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='37'
+    <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path3'>
@@ -56,7 +56,7 @@
         <animate id='d4' attributeName='d' begin='d3.end' dur='3000ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='37'
+    <text font-style="italic" font-family='"Tahoma", sans-serif' font-weight="bold" fill='#1BAED4' font-size='43'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path4'>
