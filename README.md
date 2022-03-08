@@ -1,4 +1,4 @@
-![animated-intro](https://user-images.githubusercontent.com/32339757/156576414-1b4efb8a-8351-45b2-8bca-e9109c104b84.svg)
+![animated-intro](https://raw.githubusercontent.com/xy3/xy3/master/animated-intro.svg)
 
 ## ![flame](https://user-images.githubusercontent.com/32339757/156604903-c3a1c2a1-8ccd-4379-bd92-75cf775af111.svg) Favorite Languages
 
