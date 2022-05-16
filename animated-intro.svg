@@ -7,7 +7,7 @@
         <animate id='d0' attributeName='d' begin='0s;d4.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='43'
+    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
@@ -19,7 +19,7 @@
         <animate id='d1' attributeName='d' begin='d0.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='43'
+    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
@@ -31,7 +31,7 @@
         <animate id='d2' attributeName='d' begin='d1.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='43'
+    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
@@ -43,7 +43,7 @@
         <animate id='d3' attributeName='d' begin='d2.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1350 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='43'
+    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path3'>
@@ -55,7 +55,7 @@
         <animate id='d4' attributeName='d' begin='d3.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='43'
+    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path4'>
