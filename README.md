@@ -1,63 +1,67 @@
+<div align="center">
+
 ![animated-intro](https://raw.githubusercontent.com/xy3/xy3/master/animated-intro.svg)
 
-## ![flame](https://user-images.githubusercontent.com/32339757/156604903-c3a1c2a1-8ccd-4379-bd92-75cf775af111.svg) Favorite Languages
-
+![favourite languages (3)](https://user-images.githubusercontent.com/32339757/168628702-48316101-c9c5-4155-ada6-74ae829966cf.svg)
+  
 ![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=%5DC9E2&style=for-the-badge)
 ![V](https://img.shields.io/badge/V-black.svg?logo=v&logoColor=blue&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-black.svg?logo=python&style=for-the-badge&logoColor=yellow)
 
-## ![browser](https://user-images.githubusercontent.com/32339757/156604797-2d01d948-717e-453d-9e6a-ae3bde718b6b.svg) Tools
-
+![tools i use](https://user-images.githubusercontent.com/32339757/168629107-dac96029-06aa-403d-b90b-05c9bd8e487a.svg)
+  
 ![JetBrains GoLand](https://img.shields.io/badge/Goland-black?logo=goland&logoColor=magenta&style=for-the-badge)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?logo=intellij-idea&logoColor=orange&style=for-the-badge)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=purple&style=for-the-badge)
+
 ![Swagger](https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=green&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-black?logo=notion&style=for-the-badge&logoColor=white)
 
-![Zenhub](https://img.shields.io/badge/Zenhub-black?logo=Zenhub&style=for-the-badge&logoColor=6515DD)
-![ClubHouse](https://img.shields.io/badge/Clubhouse-black?logo=clubhouse&style=for-the-badge&logoColor=6515DD)
+![technologies](https://user-images.githubusercontent.com/32339757/168629202-d6038431-6987-4d9a-8cae-2eb9d0873132.svg)
 
-## ![text-check](https://user-images.githubusercontent.com/32339757/156605028-d8a73f31-867e-4ad8-bdfb-2851d320e286.svg) Technologies
-
-#### Backend
+### Backend
 ![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=%5DC9E2&style=for-the-badge)
 ![V](https://img.shields.io/badge/V-black.svg?logo=v&logoColor=blue&style=for-the-badge) 
 ![Python](https://img.shields.io/badge/Python-black.svg?logo=python&style=for-the-badge&logoColor=yellow) 
 ![Solidity](https://img.shields.io/badge/Solidity-black.svg?logo=Solidity&style=for-the-badge&logoColor=magenta) 
-![PHP](https://img.shields.io/badge/Php-black.svg?logo=php&style=for-the-badge&logoColor=light-purple)
 
+![PHP](https://img.shields.io/badge/Php-black.svg?logo=php&style=for-the-badge&logoColor=light-purple)
 ![Java](https://img.shields.io/badge/Java-black.svg?logo=java&style=for-the-badge&logoColor=red) 
 ![C++](https://img.shields.io/badge/C++-black.svg?logo=cplusplus&style=for-the-badge&logoColor=red) 
 
-#### Frontend
+### Frontend
 ![NodeJs](https://img.shields.io/badge/node.js%20-black.svg?&style=for-the-badge&logo=node.js&logoColor=%2343853D)
 ![Svelte](https://img.shields.io/badge/Svelte%20-black.svg?&style=for-the-badge&logo=svelte&logoColor=%orange)
 ![Web3JS](https://img.shields.io/badge/web3.js%20-black.svg?&style=for-the-badge&logo=web3.js&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-black.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind_css%20-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron&logoColor=white)
 
-
-## ![database](https://user-images.githubusercontent.com/32339757/156604116-ca0498e6-9263-4694-8f79-af28e4bd3981.svg)  Databases
+![databases](https://user-images.githubusercontent.com/32339757/168629404-06399f83-4ce3-464c-bddc-b2d6b4a9e438.svg)
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=MariaDB&logoColor=003545)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=DC382D)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=003B57)
 
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=003B57)
 ![CouchDB](https://img.shields.io/badge/CouchDB-black?style=for-the-badge&logo=apachecouchdb&logoColor=E42528)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 
-## ![user-add](https://user-images.githubusercontent.com/32339757/156605564-fecfdaaf-cd0d-4111-822f-d00c34543eb4.svg) Find me on
+![find me on](https://user-images.githubusercontent.com/32339757/168629508-dff0c960-4b71-4826-a22a-401b9ecfa1c5.svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/xy3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/xy3)
 [![Kattis](https://img.shields.io/badge/Kattis-black?logo=kattis&logoColor=orange&style=for-the-badge)](https://open.kattis.com/users/tcm)
 
+</div>
+  
+  
 ----
 
 <samp>
