@@ -24,10 +24,10 @@
 ![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=%5DC9E2&style=for-the-badge)
 ![V](https://img.shields.io/badge/V-black.svg?logo=v&logoColor=blue&style=for-the-badge) 
 ![Python](https://img.shields.io/badge/Python-black.svg?logo=python&style=for-the-badge&logoColor=yellow) 
-![Solidity](https://img.shields.io/badge/Solidity-black.svg?logo=Solidity&style=for-the-badge&logoColor=magenta) 
-
 ![PHP](https://img.shields.io/badge/Php-black.svg?logo=php&style=for-the-badge&logoColor=light-purple)
+
 ![Java](https://img.shields.io/badge/Java-black.svg?logo=java&style=for-the-badge&logoColor=red) 
+![Solidity](https://img.shields.io/badge/Solidity-black.svg?logo=Solidity&style=for-the-badge&logoColor=magenta) 
 ![C++](https://img.shields.io/badge/C++-black.svg?logo=cplusplus&style=for-the-badge&logoColor=red) 
 
 ### Frontend
@@ -38,7 +38,7 @@
 
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind_css%20-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron&logoColor=white)
 
 ![databases](https://user-images.githubusercontent.com/32339757/168629404-06399f83-4ce3-464c-bddc-b2d6b4a9e438.svg)
