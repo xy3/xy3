@@ -7,11 +7,11 @@
         <animate id='d0' attributeName='d' begin='0s;d4.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
+    <text font-variant="" letter-spacing="4" font-family='"Courier", serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
-            Hello, I'm Theodore.   
+            hello, i'm Theodore.   
         </textPath>
     </text>
 
@@ -19,11 +19,12 @@
         <animate id='d1' attributeName='d' begin='d0.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
+<!--    font-variant="all-small-caps"   -->
+    <text font-variant="" letter-spacing="4" font-family='"Courier", serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
-            I believe good code is simple &amp; fast.
+            i believe good code is simple &amp; fast.
         </textPath>
     </text>
 
@@ -31,11 +32,11 @@
         <animate id='d2' attributeName='d' begin='d1.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
+    <text letter-spacing="4" font-family='"Courier", serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
-            My favourite languages are Go, V and Python.
+            my favourite languages are Go and V.
         </textPath>
     </text>
 
@@ -43,11 +44,11 @@
         <animate id='d3' attributeName='d' begin='d2.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1350 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
+    <text letter-spacing="4" font-family='"Courier", serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path3'>
-            I'm passionate about decentralization,
+            i'm passionate about decentralization,
         </textPath>
     </text>
 
@@ -55,7 +56,7 @@
         <animate id='d4' attributeName='d' begin='d3.end' dur='3500ms'
             values='m0,100 h0 ; m0,100 h1550 ; m0,100 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-variant="all-small-caps" letter-spacing="4" font-family='"Tahoma", sans-serif' font-weight="light" fill='white' font-size='29'
+    <text letter-spacing="4" font-family='"Courier", serif' font-weight="light" fill='white' font-size='29'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path4'>
