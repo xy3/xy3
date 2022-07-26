@@ -1,6 +1,6 @@
 <div align="center">
 
-![animated-intro](https://raw.githubusercontent.com/xy3/xy3/master/animated-intro.svg)
+<img src="https://raw.githubusercontent.com/xy3/xy3/master/animated-intro.svg" alt="animated intro" width="600"/>
 
 ![favourite languages (3)](https://user-images.githubusercontent.com/32339757/168628702-48316101-c9c5-4155-ada6-74ae829966cf.svg)
   
