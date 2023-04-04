@@ -50,7 +50,7 @@ technologies are cool but have you tried food?
 
  
   <br>
-these fancy titles are here to make this seem more interesting  
+these fancy titles are here to make it seem more interesting  
   
 ![databases](https://user-images.githubusercontent.com/32339757/168629404-06399f83-4ce3-464c-bddc-b2d6b4a9e438.svg)
 
