@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- <img src="https://raw.githubusercontent.com/xy3/xy3/master/animated-intro.svg" alt="animated intro" width="600"/>   -->
-i use keyboards in exchange for money  
+i do computer things in exchange for money  
   ![favourite languages (3)](https://user-images.githubusercontent.com/32339757/168628702-48316101-c9c5-4155-ada6-74ae829966cf.svg)
   
 ![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=%5DC9E2&style=for-the-badge)
