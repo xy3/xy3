@@ -2,6 +2,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/xy3/xy3/master/animated-intro.svg" alt="animated intro" width="600"/>   -->
 i create software in exchange for money  
+  
   ![favourite languages (3)](https://user-images.githubusercontent.com/32339757/168628702-48316101-c9c5-4155-ada6-74ae829966cf.svg)
   
 ![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=%5DC9E2&style=for-the-badge)
@@ -9,7 +10,8 @@ i create software in exchange for money
 ![Python](https://img.shields.io/badge/Python-black.svg?logo=python&style=for-the-badge&logoColor=yellow)
 
 <br>
-i am passionate about one day being very rich
+
+  i am ~~a~~ passionate ~~individual~~ about one day being ridiculously rich
 
 ![tools i use](https://user-images.githubusercontent.com/32339757/168629107-dac96029-06aa-403d-b90b-05c9bd8e487a.svg)
   
@@ -23,7 +25,8 @@ i am passionate about one day being very rich
 
 
   <br>
-technologies are cool but have you tried food?  
+
+  i have a strong desire to ~~learn new cutting-edge technologies~~ eat food
   
 ![technologies](https://user-images.githubusercontent.com/32339757/168629202-d6038431-6987-4d9a-8cae-2eb9d0873132.svg)
 
@@ -50,7 +53,7 @@ technologies are cool but have you tried food?
 
  
   <br>
-these fancy titles are here to make it seem more interesting  
+the fancy text is to make this seem more interesting  
   
 ![databases](https://user-images.githubusercontent.com/32339757/168629404-06399f83-4ce3-464c-bddc-b2d6b4a9e438.svg)
 
