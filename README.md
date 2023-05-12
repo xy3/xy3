@@ -3,7 +3,8 @@
 <!-- <img src="https://raw.githubusercontent.com/xy3/xy3/master/animated-intro.svg" alt="animated intro" width="600"/>   -->
 <!-- i create software in exchange for money   -->
   
-  ![favourite languages (3)](https://user-images.githubusercontent.com/32339757/168628702-48316101-c9c5-4155-ada6-74ae829966cf.svg)
+<!--   ![favourite languages (3)](https://user-images.githubusercontent.com/32339757/168628702-48316101-c9c5-4155-ada6-74ae829966cf.svg) -->
+<img src="https://raw.githubusercontent.com/xy3/xy3/3e3cf14016ed6b36fa328b2b140d42eb42aa50c6/favouritelangs.svg" alt="favourite languages" height="60" style="max-width: 100%;">
   
 ![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=%5DC9E2&style=for-the-badge)
 ![V](https://img.shields.io/badge/V-black.svg?logo=v&logoColor=blue&style=for-the-badge)
@@ -13,7 +14,8 @@
 
 <!--   i am ~~a~~ passionate ~~individual~~ about one day being ridiculously rich -->
 
-![tools i use](https://user-images.githubusercontent.com/32339757/168629107-dac96029-06aa-403d-b90b-05c9bd8e487a.svg)
+<!-- ![tools i use](https://user-images.githubusercontent.com/32339757/168629107-dac96029-06aa-403d-b90b-05c9bd8e487a.svg) -->
+<img src="https://raw.githubusercontent.com/xy3/xy3/3e3cf14016ed6b36fa328b2b140d42eb42aa50c6/tools.svg" alt="tools i use" height="60" style="max-width: 100%;">
   
 ![JetBrains GoLand](https://img.shields.io/badge/Goland-black?logo=goland&logoColor=magenta&style=for-the-badge)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?logo=intellij-idea&logoColor=orange&style=for-the-badge)
@@ -28,8 +30,9 @@
 
 <!--   i have a strong desire to ~~learn new cutting-edge technologies~~ eat food -->
   
-![technologies](https://user-images.githubusercontent.com/32339757/168629202-d6038431-6987-4d9a-8cae-2eb9d0873132.svg)
-
+<!-- ![technologies](https://user-images.githubusercontent.com/32339757/168629202-d6038431-6987-4d9a-8cae-2eb9d0873132.svg) -->
+<img src="https://raw.githubusercontent.com/xy3/xy3/3e3cf14016ed6b36fa328b2b140d42eb42aa50c6/technologies.svg" alt="technologies" height="60" style="max-width: 100%;">
+  
 #### backend
 ![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=%5DC9E2&style=for-the-badge)
 ![V](https://img.shields.io/badge/V-black.svg?logo=v&logoColor=blue&style=for-the-badge) 
@@ -55,8 +58,9 @@
   <br>
 <!-- the fancy text is to make this seem more interesting   -->
   
-![databases](https://user-images.githubusercontent.com/32339757/168629404-06399f83-4ce3-464c-bddc-b2d6b4a9e438.svg)
-
+<!-- ![databases](https://user-images.githubusercontent.com/32339757/168629404-06399f83-4ce3-464c-bddc-b2d6b4a9e438.svg) -->
+<img src="https://raw.githubusercontent.com/xy3/xy3/3e3cf14016ed6b36fa328b2b140d42eb42aa50c6/databases.svg" alt="databases" height="60" style="max-width: 100%;">
+  
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=MariaDB&logoColor=003545)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=DC382D)
@@ -70,7 +74,8 @@
   <br>
 <!-- you can find me in person but i think virtually might be easier   -->
   
-![find me on](https://user-images.githubusercontent.com/32339757/168629508-dff0c960-4b71-4826-a22a-401b9ecfa1c5.svg)
+<!-- ![find me on](https://user-images.githubusercontent.com/32339757/168629508-dff0c960-4b71-4826-a22a-401b9ecfa1c5.svg) -->
+<img src="https://raw.githubusercontent.com/xy3/xy3/3e3cf14016ed6b36fa328b2b140d42eb42aa50c6/find.svg" alt="find" height="60" style="max-width: 100%;">
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/xy3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/xy3)
