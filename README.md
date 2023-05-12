@@ -98,6 +98,6 @@ U01SbFNJWmxTQjRsU29sbFNNUmxTb0psU0w0bFNvbGxTTVJsU3I4bFNJRGxTb2xsU01SbFNvSmxTSURs
 
 --- -->
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=xy3&logoColor=red)
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=xy3&logoColor=red)
 (mostly just me looking at myself)
-
+ -->
