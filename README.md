@@ -19,8 +19,9 @@
   
 ![JetBrains GoLand](https://img.shields.io/badge/Goland-black?logo=goland&logoColor=FC347D&style=for-the-badge)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?logo=intellij-idea&logoColor=FC347D&style=for-the-badge)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=FC347D&style=for-the-badge)
+![WebStorm](https://img.shields.io/badge/WebStorm-black?logo=webstorm&logoColor=FC347D&style=for-the-badge)
 
+![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=FC347D&style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=FC347D&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=FC347D&style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-black?logo=notion&style=for-the-badge&logoColor=FC347D)
