@@ -34,7 +34,6 @@
 <!-- ![technologies](https://user-images.githubusercontent.com/32339757/168629202-d6038431-6987-4d9a-8cae-2eb9d0873132.svg) -->
 <img src="https://raw.githubusercontent.com/xy3/xy3/3e3cf14016ed6b36fa328b2b140d42eb42aa50c6/technologies.svg" alt="technologies" height="60" style="max-width: 100%;">
   
-#### backend
 ![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=FC347D&style=for-the-badge)
 ![V](https://img.shields.io/badge/V-black.svg?logo=v&logoColor=FC347D&style=for-the-badge) 
 ![Python](https://img.shields.io/badge/Python-black.svg?logo=python&style=for-the-badge&logoColor=FC347D) 
