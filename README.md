@@ -44,17 +44,9 @@
 ![NodeJs](https://img.shields.io/badge/node.js%20-black.svg?&style=for-the-badge&logo=node.js&logoColor=FC347D)
 ![C++](https://img.shields.io/badge/C++-black.svg?logo=cplusplus&style=for-the-badge&logoColor=FC347D) 
 
-#### frontend
 ![TypeScript](https://img.shields.io/badge/typescript%20-black.svg?&style=for-the-badge&logo=typescript&logoColor=FC347D)
 ![Svelte](https://img.shields.io/badge/Svelte%20-black.svg?&style=for-the-badge&logo=svelte&logoColor=FC347D)
-![Web3JS](https://img.shields.io/badge/web3.js%20-black.svg?&style=for-the-badge&logo=web3.js&logoColor=FC347D)
 ![React](https://img.shields.io/badge/react%20-black.svg?&style=for-the-badge&logo=react&logoColor=FC347D)
-
-![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=FC347D)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=FC347D)
-![Tailwind](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=FC347D)
-![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron&logoColor=FC347D)
-
  
   <br>
 <!-- the fancy text is to make this seem more interesting   -->
